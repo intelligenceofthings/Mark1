@@ -51,11 +51,38 @@ OWLVIT_API_KEY=your_owlvit_api_key
    python main.py
 ```
 
-## The pipeline includes:
+## Smart Home Control Pipeline
 
-- Scene annotation (annotated_image.jpg)
-- Object detection & metadata tagging
-- Spatial inference
-- Natural language command input
-- Smart device control via Tuya
-- Voice input from real_time_audio.wav (optional)
+The pipeline includes the following modules:
+
+### 1. `nl_processor.py`
+
+- Prompts the user to list out the devices present in the environment using natural language.
+- **Input**: User's natural language description.
+- **Output**: Structured list of detected devices.
+
+### 2. `onboarder.py`
+
+- Automatically annotates the scene using inputs from the user.
+- **Output**: Generates `annotated_image.jpg` with labeled devices.
+
+### 3. `spatial_inferencer.py`
+
+- Constructs a textual interpretation of the annotated scene.
+- **Output**: Descriptive, spatially aware text about device locations.
+
+### 4. `transcriptor.py`
+
+- Converts user speech into text, supporting multiple languages.
+- **Input**: Multilingual speech command.
+- **Output**: Transcribed command in text format.
+
+### 5. `command_processor.py`
+
+- Evaluates the textual command and determines which device should be turned on or off.
+- **Function**: Parses command context and intent for actuation.
+
+### 6. `tuya_executor.py`
+
+- Serves as a wrapper to connect the Gemini reasoning module with the Tuya Smart Device API.
+- **Function**: Executes device control actions via Tuya API.
