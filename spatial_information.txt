@@ -1,0 +1,29 @@
+**1. Object Location:**
+
+- **light1**: Installed horizontally on the left wall near the ceiling, above the work desk and adjacent to the corner where the wall meets the ceiling.  
+- **light2**: Positioned vertically on the far-left wall, directly above the work desk near the monitors, aligned with the desk's edge.  
+- **light3**: Centered on the far wall, just above a decorative red wall picture, parallel to the bed's vertical placement.  
+- **light4**: Mounted on the right wall near the window, above the bed's right edge, close to the top of the curtain rod.  
+- **fan1**: Ceiling-mounted, centrally located in the room, positioned above the bed and work desk area.  
+
+---
+
+**2. Nearby Objects:**
+
+- **light1**: Closest to the wall surface and directly above the keyboard and work desk area, ensuring ample lighting for the workspace.  
+- **light2**: Adjacent to the work desk and monitors, providing focused lighting for the desk setup.  
+- **light3**: Proximate to the decorative red painting on the wall and slightly above it, serving as an aesthetic addition while illuminating the bed area.  
+- **light4**: Near the curtain and the air conditioner unit, providing light for the side of the bed and adjacent wall.  
+- **fan1**: Positioned equidistantly between the bed and the work desk, offering airflow throughout the room.  
+
+---
+
+**3. Spatial Relationships:**
+
+- **light1**: Aligned horizontally with the ceiling and positioned above the workspace, slightly offset from the room's center.  
+- **light2**: Vertically aligned with the left wall, in line with the monitors and close to the bed's foot.  
+- **light3**: Mounted parallel to the wall picture, equidistant between the left and right walls, symmetrically enhancing the wall decor.  
+- **light4**: Placed vertically along the right wall and closer to the bed's head while aligning with the upper corner of the window curtain.  
+- **fan1**: Centrally located for even air circulation, slightly forward toward the bed compared to the desk.  
+
+This arrangement reflects thoughtful integration of lighting and airflow relative to furniture and room usage.
